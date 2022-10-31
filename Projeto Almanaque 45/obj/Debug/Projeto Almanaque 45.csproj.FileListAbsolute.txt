@@ -1,0 +1,12 @@
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.exe.config
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.exe
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.pdb
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.csproj.AssemblyReference.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.csproj.SuggestedBindingRedirects.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.Properties.Resources.resources
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.csproj.GenerateResource.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.csproj.CoreCompileInputs.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.exe
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.pdb
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.CIA_Almanaque.resources
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.MI6_almanaque.resources

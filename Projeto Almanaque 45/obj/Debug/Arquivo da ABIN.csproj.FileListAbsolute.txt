@@ -1,0 +1,22 @@
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.exe.config
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.exe
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\Projeto Almanaque 45.pdb
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\EntityFramework.dll
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\System.Data.SQLite.dll
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\EntityFramework.xml
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\bin\Debug\System.Data.SQLite.xml
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Arquivo da ABIN.csproj.AssemblyReference.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Arquivo da ABIN.csproj.SuggestedBindingRedirects.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.Properties.Resources.resources
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Arquivo da ABIN.csproj.GenerateResource.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Arquivo da ABIN.csproj.CoreCompileInputs.cache
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Arquivo da ABIN.csproj.CopyComplete
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.exe
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto Almanaque 45.pdb
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.Pequim.resources
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.Cia.resources
+C:\Users\R2\source\repos\Projeto Almanaque 45\Projeto Almanaque 45\obj\Debug\Projeto_Almanaque_45.MI6.resources
